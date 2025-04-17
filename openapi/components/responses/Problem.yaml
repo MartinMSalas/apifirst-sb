@@ -1,5 +1,2 @@
 description: Problem
-content:
-  application/problem+json:
-    schema:
-      $ref: ../schemas/Problem.yaml
+
