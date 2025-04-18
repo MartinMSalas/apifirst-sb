@@ -15,5 +15,4 @@ properties:
     type: string
     minLength: 1
     example: Smith
-  email:
-    $ref: ./Email.yaml
+
